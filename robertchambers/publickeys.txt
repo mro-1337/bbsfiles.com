@@ -1,0 +1,37 @@
+BBS Name: The Parole Board BBS
+Sysop Name: Dennis Maidon
+
+Adopt-A-Door		27400
+Awards Trivia		1976001
+Baby Derby		866912
+BBS Herald		5451744
+CatList			2058552
+Celebrity Trivia	5007431
+Classifieds		1866350
+Current Events		29635
+Diamond Trivia		908733
+History Trivia		625128
+Movie Trivia		1692953
+NCAA Sports Trivia	217497
+OnLine Graffiti		118402
+OnLine Reviews		176999
+OnLine Text-Reader	426675
+OnLine Trivia		115084
+Pick 7!			35761656
+PostTime		46407
+Purity 1000		872352
+Purity 500		136305
+Quarter Slots		4164918
+Quotes-Quips		2894439
+Sex Trivia		339012
+States Trivia		1253973
+Stock Quote		3691800
+Super Rassle		81609
+Time Trials		15557
+Trek Trivia		2720520
+URLister		136197
+Wishing Well		88473
+World Geo Trivia	1056754
+
+
+Per the programmer's website: http://www.dmaidon.com/parole
